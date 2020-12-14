@@ -8,6 +8,8 @@ This package was created to make it easier to implement multi-pose hand gestures
 This package includes a custom hand model, rewritten hand presence script, custom designed 
 animation controller, and several prefabs.
 
+Look at this gallery for some examples of the hand poses included in the package - https://imgur.com/gallery/ub7G5VO
+
 If you make changes to the included .blend file (where the model was rigged) then make sure to export the Blender project to the included fbx file so animations don't break.
 
 Installation instructions - 
