@@ -9,6 +9,8 @@ If you make changes to the included .blend file (where the model was rigged) the
 
 Installation instructions - 
 
+Step 0. Download the unity package from here.
+
 Step 1. Go to this link - https://www.youtube.com/watch?v=KHWuTBmT1oI - and watch the video
 until the part where valem makes changes to the hand presence prefabs on the VR player rig.
 
