@@ -28,8 +28,8 @@ MAKE SURE you install the XR Interaction Toolkit and the XR Legacy Input Helpers
 
 Step 2. When you get to that part, instead of editing the prefabs, delete them. 
 
-Step 3. Then go into the Prefabs folder of this package and drop the RoboHand_Presence prefabs
-I created onto the VR rig in the spots for each hand. The RoboHand_Presence prefabs are already
+Step 3. Then go into the Prefabs folder of this package and drop the Left and Right_Hand_Presence prefabs
+I created onto the VR rig in the spots for each hand. The Hand_Presence prefabs are already
 set up to work with the new animators and script!
 
 Step 4. Put on your headset and grab a controller! If you're on Oculus, you should have a total
