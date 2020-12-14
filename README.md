@@ -10,8 +10,6 @@ animation controller, and several prefabs.
 
 Look at this gallery for some examples of the hand poses included in the package - https://imgur.com/gallery/ub7G5VO
 
-If you make changes to the included .blend file (where the model was rigged) then make sure to export the Blender project to the included fbx file so animations don't break.
-
 Installation instructions - 
 
 Step 0. Download the unity package from here.
@@ -42,6 +40,14 @@ of 7 hand poses available:
 
 And your VR hands should be complete! Feel free to make your own hand model and attach it to the
 rig set up in the included Blend file too (for advanced users).
+
+Want to add your own hand poses or make changes to the included ones?
+Install Blender 2.79 and open the included .blend file to do so!
+
+Download Blender 2.79 from this link - https://www.blender.org/download/releases/2-79/
+
+If you make changes to the included .blend file (where the model was rigged), 
+make sure to export the Blender project to the included fbx file so animations don't break.
 
 This github repository is the home for the free version of the RoboHands package, which includes a limited but helpful amount of assets
 for budding unity VR developers. However, if you would like a package with more features, I'm working on it currently and plan to
