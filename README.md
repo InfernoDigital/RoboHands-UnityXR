@@ -1,4 +1,7 @@
 # RoboHands-UnityXR
+
+https://i.imgur.com/zfAmXNw.png
+
 A Basic package for anyone to use to get started in UnityXR with hand animations.
 
 This package was created to make it easier to implement multi-pose hand gestures in your own VR games!
