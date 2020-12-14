@@ -2,7 +2,7 @@
 
 ![RH1-2](https://user-images.githubusercontent.com/12396056/102137488-e9611600-3e28-11eb-9f3a-149ee6549ff8.png)
 
-A Basic package for anyone to use to get started in UnityXR with hand animations.
+A UnityXR package designed to quickly get hand controller animations up and running!
 
 This package was created to make it easier to implement multi-pose hand gestures in your own VR games!
 This package includes a custom hand model, rewritten hand presence script, custom designed 
