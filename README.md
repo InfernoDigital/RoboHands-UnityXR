@@ -1,7 +1,6 @@
 # RoboHands-UnityXR
 
-![RoboHandsimg](https://user-images.githubusercontent.com/12396056/102137268-8d968d00-3e28-11eb-9c34-bc21f93e5d53.png)
-
+![RH1-2](https://user-images.githubusercontent.com/12396056/102137488-e9611600-3e28-11eb-9f3a-149ee6549ff8.png)
 
 A Basic package for anyone to use to get started in UnityXR with hand animations.
 
