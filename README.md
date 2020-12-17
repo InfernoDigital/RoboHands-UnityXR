@@ -34,23 +34,23 @@ Step 3. When you get to that part, instead of editing the prefabs, delete them.
 Step 4. Then go into the Prefabs folder of this package and drop the Left and Right_Hand_Presence prefabs I created onto the VR rig in the spots for each hand. 
 The Hand_Presence prefabs are already set up to work with the new animators and script!
 
-Step 5. Put on your headset and grab a controller! If you're on Oculus, you should have a total of 7 hand poses available:
+Step 5. Put on your headset and grab a controller! If you're on Oculus, you should have a total of 8 hand poses available:
 
-Idle (+ Idle Thumbs Up)
+- Idle (+ Idle Thumbs Up)
 
-Fist
+- Fist
 
-Grip (+ Grip Thumbs up)
+- Grip (+ Grip Thumbs up)
 
-Pinch
+- Pinch
 
-Point
+- Point
 
-Finger Gun
+- Finger Gun
 
-Thumbs Up
+- Thumbs Up
 
-Open Hand
+- Open Hand
 
 
 And your VR hands should be complete! Feel free to make your own hand model and attach it to the rig set up in the included Blend file too (for advanced users).
