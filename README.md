@@ -16,6 +16,14 @@ and prefabs.
 
 Look at this gallery for some examples of the hand poses included in the package - https://imgur.com/gallery/ub7G5VO
 
+An alternate hand model was provided by the amazing Robert Ramsay on Sketchfab! These hand models aren't free, but he's been nice enough to allow me to use
+the model itself in the pack! Textures are not provided in the RoboHands pack, but if you'd like the textures for the models you can purchase them yourself
+on his Sketchfab page! 
+
+Robert's Sci-fi Gloves - https://skfb.ly/6AWNP
+Robert's website - https://robertramsay.co.uk/
+
+
 Installation instructions - 
 
 Step 0. Download the unity package from here.
