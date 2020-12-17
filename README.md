@@ -84,4 +84,6 @@ Keep an eye out for a new link here in the readme to the Asset Store page eventu
 
 The Github Repo - https://github.com/InfernoDigital/RoboHands-UnityXR
 
+Playable RoboHands Package Demos - https://drive.google.com/drive/folders/1G3x2topHxRTLfjWdo8vKiXtwc7KVEIIM?usp=sharing
+
 Enjoy!
