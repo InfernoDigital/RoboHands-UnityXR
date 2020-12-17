@@ -72,6 +72,8 @@ I used what I learned from his videos to expand into this package. :D
 
 Valem's Channel - https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw
 
+A Hand Model for this package was created by 3DMaesen on Sketchfab! Follow Maesen and check out more cool models here - https://sketchfab.com/bumstrum
+
 Want to add your own hand poses or make changes to the included ones? Install Blender 2.79 and open the included .blend file to do so! (currently my hand model only)
 
 Download Blender 2.79 from this link - https://www.blender.org/download/releases/2-79/
