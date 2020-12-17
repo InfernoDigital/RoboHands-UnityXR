@@ -60,7 +60,7 @@ EXTRA INFO, CREDITS & LINKS
 /////////////////////////////////////////////////////////
 
 An alternate hand model was provided by the amazing Robert Ramsay on Sketchfab! These hand models aren't free, 
-but he's been nice enough to allow me to use the model itself in the pack! Textures are not provided in the RoboHands pack, 
+but he's been incredibly generous and allowed me to use the model itself in the pack! Textures are not provided in the RoboHands pack, 
 but if you'd like the textures for the models you can purchase them yourself on his Sketchfab page!
 
 Robert's Sci-fi Gloves - https://skfb.ly/6AWNP
