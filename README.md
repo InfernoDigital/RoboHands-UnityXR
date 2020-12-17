@@ -1,6 +1,6 @@
 # RoboHands-UnityXR
 
-![RoboHandsPackImage2_50x](https://user-images.githubusercontent.com/12396056/102531257-00457980-4070-11eb-984d-012dda52b131.png)
+![RoboHandsPackImage3_50x](https://user-images.githubusercontent.com/12396056/102532535-2409bf00-4072-11eb-874d-f9ed6cb4fe99.png)
 
 ROBOHANDS XR
 -----------------------------------------------------------------------------------------------
