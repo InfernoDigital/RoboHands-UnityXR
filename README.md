@@ -26,21 +26,23 @@ Robert's website - https://robertramsay.co.uk/
 
 Installation instructions - 
 
-Step 0. Download the unity package from here.
+Step 0. Ensure you're running Unity 2019.4.9f1
 
-Step 1. Go to this link - https://www.youtube.com/watch?v=KHWuTBmT1oI - and watch the video
+Step 1. Download the unity package from here.
+
+Step 2. Go to this link - https://www.youtube.com/watch?v=KHWuTBmT1oI - and watch the video
 until the part where valem makes changes to the hand presence prefabs on the VR player rig.
 
 MAKE SURE you install the XR Interaction Toolkit and the XR Legacy Input Helpers packages before continuing (Input Helpers should be included in the toolkit)
 
 
-Step 2. When you get to that part, instead of editing the prefabs, delete them. 
+Step 3. When you get to that part, instead of editing the prefabs, delete them. 
 
-Step 3. Then go into the Prefabs folder of this package and drop the Left and Right_Hand_Presence prefabs
+Step 4. Then go into the Prefabs folder of this package and drop the Left and Right_Hand_Presence prefabs
 I created onto the VR rig in the spots for each hand. The Hand_Presence prefabs are already
 set up to work with the new animators and script!
 
-Step 4. Put on your headset and grab a controller! If you're on Oculus, you should have a total
+Step 5. Put on your headset and grab a controller! If you're on Oculus, you should have a total
 of 7 hand poses available:
 
 - Idle (+ Idle Thumbs Up)
