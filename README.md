@@ -23,7 +23,7 @@ INSTALLATION
 
 Step 0. Ensure you're running Unity 2019.4.9f1
 
-Step 1. Download the unity package from here - https://drive.google.com/file/d/1gpb6kN8zadfM13YG7RvDo9f5jUiXzA36/view?usp=sharing
+Step 1. Download the unity package from here - https://drive.google.com/drive/folders/1FjYzbB1yKYo6sWYWB7VclbF7_oXv62s1?usp=sharing
 
 Step 2. Go to this link - https://www.youtube.com/watch?v=KHWuTBmT1oI - and watch the video until the part where valem makes changes to the hand presence prefabs on the VR player rig.
 
