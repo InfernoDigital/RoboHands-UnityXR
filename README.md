@@ -37,13 +37,21 @@ The Hand_Presence prefabs are already set up to work with the new animators and 
 Step 5. Put on your headset and grab a controller! If you're on Oculus, you should have a total of 7 hand poses available:
 
 Idle (+ Idle Thumbs Up)
+
 Fist
+
 Grip (+ Grip Thumbs up)
+
 Pinch
+
 Point
+
 Finger Gun
+
 Thumbs Up
+
 Open Hand
+
 
 And your VR hands should be complete! Feel free to make your own hand model and attach it to the rig set up in the included Blend file too (for advanced users).
 
