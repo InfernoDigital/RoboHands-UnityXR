@@ -67,6 +67,8 @@ Robert's website - https://robertramsay.co.uk/
 
 A Hand Model for this package was created by 3DMaesen on Sketchfab! Follow Maesen and check out more cool models here - https://sketchfab.com/bumstrum
 
+A Hand Model for this package was created by DudleyLong on Sketchfab! Follow Dudley and check out more cool models here - https://skfb.ly/6TOME
+
 Thanks to Valem for creating the tutorial helping to teach me and many others how to code for VR in Unity. 
 I used what I learned from his videos to expand into this package. :D 
 
