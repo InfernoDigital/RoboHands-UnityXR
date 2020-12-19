@@ -2,7 +2,7 @@
 
 ![RoboHandsPackImage3_50x](https://user-images.githubusercontent.com/12396056/102532535-2409bf00-4072-11eb-874d-f9ed6cb4fe99.png)
 
-[![Alt text](https://img.youtube.com/vi/Xx_bJQA0oN8/0.jpg)](https://www.youtube.com/watch?v=Xx_bJQA0oN8)
+
 
 ROBOHANDS XR
 -----------------------------------------------------------------------------------------------
@@ -54,6 +54,12 @@ Step 5. Put on your headset and grab a controller! If you're on Oculus, you shou
 
 
 And your VR hands should be complete! Feel free to make your own hand model and attach it to the rig set up in the included Blend file too (for advanced users).
+
+/////////////////////////////////////////////////////////
+SHOWCASE VIDEO
+/////////////////////////////////////////////////////////
+
+[![Alt text](https://img.youtube.com/vi/Xx_bJQA0oN8/0.jpg)](https://www.youtube.com/watch?v=Xx_bJQA0oN8)
 
 /////////////////////////////////////////////////////////
 EXTRA INFO, CREDITS & LINKS
