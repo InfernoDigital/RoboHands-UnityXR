@@ -12,10 +12,7 @@ A UnityXR package designed to quickly get hand controller animations up and runn
 This package was created to make it easier to implement multi-pose hand gestures in your own VR games! 
 This package includes custom hand models, overhauled hand presence script, custom designed animation controller, and several prefabs.
 
-Unlike some implementations, this package DOES use individual animations for each gameobject grabbed (not yet implemented) 
-although inefficient for games with an enormous amount of interactable objects, for games with more streamlined controls this
-package can lead to lively hand models with fine-tuned finger and grab animations. 
-And as the RoboHands base package (what is found here on Github) is effectively free and open-source, it's easy to add your own functionality to the base scripts and prefabs.
+This package DOES use individual animations for each gameobject grabbed! Games with more streamlined controls can utilize this package, leading to lively hand models with fine-tuned finger and grab animations. And as the RoboHands base package (what is found here on Github) is effectively free and open-source, it's easy to add your own functionality to the base scripts and prefabs.
 
 Look at this gallery for some examples of the hand poses included in the package - https://imgur.com/gallery/ub7G5VO
 
