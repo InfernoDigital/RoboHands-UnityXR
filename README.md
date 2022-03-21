@@ -20,7 +20,7 @@ Look at this gallery for some examples of the hand poses included in the package
 INSTALLATION
 ////////////////////////////////////////////////////
 
-Step 0. Ensure you're running Unity 2019.4.9f1
+Step 0. Ensure you're running Unity 2019.4.9f1 (newer versions of Unity use OpenXR, which breaks some functions of this pack atm)
 
 Step 1. Download the unity package from here - https://drive.google.com/drive/folders/1FjYzbB1yKYo6sWYWB7VclbF7_oXv62s1?usp=sharing
 
